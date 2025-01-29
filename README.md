@@ -11,7 +11,7 @@ Sign in to the Dockerhub and Docker Desktop
 ## Step 3:
 Check docker installation: cli -> docker
 Eg: Pull the hello world image and run it
-
+ 
 ## Step 4:
 Build the docker image
 
